@@ -1,3 +1,4 @@
+<script>
  window.mobilecheck = function () {
             var check = false;
             (function (a) {
@@ -20,3 +21,5 @@
                 }
             }
         });
+
+</script>
